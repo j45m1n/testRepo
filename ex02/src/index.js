@@ -4,3 +4,4 @@ function saberi(broj1, broj2) {
 }
 
 saberi(2,3)
+saberi(19, 10)
